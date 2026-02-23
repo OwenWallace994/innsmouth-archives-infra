@@ -38,10 +38,14 @@ This repository documents the architecture, configuration, and operational pract
   - **Prometheus**: scrapes metrics from the host and services
   - **Grafana**: visualizes metrics and dashboards at `metrics.innsmoutharchives.com`
 
-A high-level diagram and more detail will be available in:
-
-- `docs/overview.md`
-- `media/diagrams/architecture.png` (planned)
+Ubuntu Server
+   └─ Docker
+      ├─ Immich
+      ├─ Jellyfin
+      ├─ Grafana
+      └─ Prometheus
+   └─ Caddy
+      └─ Routes to subdomains
 
 ---
 
@@ -88,7 +92,7 @@ A high-level diagram and more detail will be available in:
       - Container status
       - Service availability (planned)
 - Notes:
-  - Internal configuration and dashboards are documented under `docs/monitoring-setup.md` (planned).
+  - Internal configuration and dashboards are documented under `docs/monitoring-setup.md`.
 
 ---
 
@@ -106,7 +110,7 @@ Caddy is responsible for:
 - Reverse proxying requests to Docker services
 - Managing virtual hosts per subdomain
 
-An example (redacted) Caddy configuration is stored in:
+An example Caddy configuration is stored in:
 
 - `caddy/Caddyfile.example`
 
@@ -125,8 +129,7 @@ An example (redacted) Caddy configuration is stored in:
 
 ---
 
-## 5. Repository Structure (Planned)
-
+## 5. Repository Structure 
 ```text
 innsmouth-archives-infra/
 ├─ README.md
