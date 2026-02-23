@@ -138,11 +138,9 @@ innsmouth-archives-infra/
 │  ├─ immich-setup.md
 │  └─ monitoring-setup.md
 ├─ docker/
-│  ├─ docker-compose.yml
-│  └─ env.example
+│  └─ docker-compose.yml
 ├─ caddy/
-│  ├─ Caddyfile.example
-│  └─ notes.md
+│  └─Caddyfile.example
 └─ media/
    ├─ screenshots/
    └─ diagrams/
