@@ -136,9 +136,7 @@ innsmouth-archives-infra/
 │  ├─ docker-setup.md
 │  ├─ jellyfin-setup.md
 │  ├─ immich-setup.md
-│  ├─ monitoring-setup.md
-│  ├─ troubleshooting.md
-│  └─ roadmap.md
+│  └─ monitoring-setup.md
 ├─ docker/
 │  ├─ docker-compose.yml
 │  └─ env.example
