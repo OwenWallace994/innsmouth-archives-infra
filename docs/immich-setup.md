@@ -132,4 +132,4 @@ docker compose up -d
 
 ## 7. Change Username and Password
 
-- This can be done either within Immich or within 'docker-compose.yml
+- This can be done either within Immich or within 'docker-compose.yml'
