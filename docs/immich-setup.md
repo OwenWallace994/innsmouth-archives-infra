@@ -27,8 +27,6 @@ cd ~/docker/immich
 Create this file inside `~/docker/immich`:
 
 ```yaml
-version: "3.9"
-
 services:
   immich-server:
     image: ghcr.io/immich-app/immich-server:latest
@@ -131,3 +129,7 @@ Back up:
 docker compose pull
 docker compose up -d
 ```
+
+## 7. Change Username and Password
+
+- This can be done either within Immich or within 'docker-compose.yml
