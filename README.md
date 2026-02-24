@@ -1,6 +1,6 @@
 # About This Project
 
-**innsmoutharchives.com** is a long-term passion project where I combine my creative interests — maritime folklore, diving stories, and horror writing — with my technical growth as a self-hosting enthusiast.
+**innsmoutharchives.com** is a long-term passion project where I combine my creative interests, maritime folklore, diving stories, and horror writing with my technical growth as a self-hosting enthusiast.
 
 The website and overall branding lean heavily into atmospheric, nautical-horror themes by design. However, this repository is strictly focused on the **technical infrastructure** that powers the project, including:
 
@@ -12,7 +12,7 @@ The website and overall branding lean heavily into atmospheric, nautical-horror 
 
 While the creative content behind Innsmouth Archives involves storytelling, interviews with divers/sailors, and oceanic horror themes, the infrastructure showcased here is fully professional and demonstrates my ability to design and maintain real Linux-based systems.
 
-This repo is part of my portfolio and reflects my practical skills in DevOps tooling, containerization, and self-hosted service architecture — independent of the site's creative tone.
+This repo is part of my portfolio and reflects my practical skills in DevOps tooling, containerization, and self-hosted service architecture independent of the site's creative tone.
 
 # Innsmouth Archives – Self-Hosted Infrastructure
 
