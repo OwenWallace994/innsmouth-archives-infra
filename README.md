@@ -138,10 +138,10 @@ innsmouth-archives-infra/
 │  ├─ jellyfin-setup.md
 │  ├─ immich-setup.md
 │  └─ monitoring-setup.md
-├─ docker/
-│  └─ docker-compose.yml
+├─ Docker/
+│  └─ docker-compose.md
 ├─ caddy/
-│  └─Caddyfile.example
+│  └─Caddyfile.md
 └─ media/
    ├─ screenshots/
    └─ diagrams/
