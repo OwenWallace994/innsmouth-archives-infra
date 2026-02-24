@@ -110,9 +110,7 @@ Caddy is responsible for:
 - Reverse proxying requests to Docker services
 - Managing virtual hosts per subdomain
 
-An example Caddy configuration is stored in:
-
-- `caddy/Caddyfile.example`
+Click here for an example Caddyfile.
 
 ---
 
