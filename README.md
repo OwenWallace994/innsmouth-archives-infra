@@ -1,4 +1,4 @@
-## About This Project
+# About This Project
 
 **innsmoutharchives.com** is a long-term passion project where I combine my creative interests — maritime folklore, diving stories, and horror writing — with my technical growth as a self-hosting enthusiast.
 
